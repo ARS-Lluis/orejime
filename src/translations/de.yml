@@ -13,7 +13,7 @@ consentNotice:
   learnMore: Mehr erfahren
 save: Speichern
 decline: Ablehnen
-app:
+purpose:
   optOut:
     title: (Opt-Out)
     description: Diese Anwendung wird standarmäßig gelanden (aber Sie können sie deaktivieren)
