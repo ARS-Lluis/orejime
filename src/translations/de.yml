@@ -1,25 +1,38 @@
 consentModal:
   title: Informationen die wir sammeln
   description: >
-    Hier können Sie einsehen und anpassen, welche Information wir über Sie sammeln.
+    Hier können Sie einsehen und anpassen, welche Information wir über
+    Sie sammeln.
   privacyPolicy:
     name: Datenschutzerklärung
-    text: >
+    text: |
       Bitte lesen Sie unsere {privacyPolicy} um weitere Details zu erfahren.
 consentBanner:
-  changeDescription: Es gab Änderungen seit Ihrem letzten Besuch, bitte aktualisieren Sie Ihre Auswahl.
+  changeDescription: Es gab Änderungen seit Ihrem letzten Besuch, bitte
+    aktualisieren Sie Ihre Auswahl.
   description: >
-    Wir speichern und verarbeiten Ihre personenbezogenen Informationen für folgende Zwecke: {purposes}.
+    Wir speichern und verarbeiten Ihre personenbezogenen Informationen
+    für folgende Zwecke: {purposes}.
   learnMore: Mehr erfahren
+accept: ""
+acceptTitle: ""
+acceptAll: ""
 save: Speichern
+saveData: ""
 decline: Ablehnen
+declineAll: ""
+close: ""
+enabled: ""
+disabled: ""
 purpose:
   optOut:
     title: (Opt-Out)
-    description: Diese Anwendung wird standarmäßig gelanden (aber Sie können sie deaktivieren)
+    description: Diese Anwendung wird standarmäßig gelanden (aber Sie können sie
+      deaktivieren)
   required:
     title: (immer notwendig)
     description: Diese Anwendung wird immer benötigt
   purposes: Zwecke
   purpose: Zweck
 poweredBy: Realisiert mit Orejime
+newWindow: ""
