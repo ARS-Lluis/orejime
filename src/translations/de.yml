@@ -28,8 +28,8 @@ modal:
 purpose:
   mandatory: (immer notwendig)
   mandatoryTitle: Diese Anwendung wird immer benötigt
-  optOut: (Opt-Out)
-  optOutTitle: Diese Anwendung wird standarmäßig gelanden (aber Sie können sie deaktivieren)
+  exempt: (Opt-Out)
+  exemptTitle: Diese Anwendung wird standarmäßig gelanden (aber Sie können sie deaktivieren)
   showMore: ""
   accept: ""
   decline: Ablehnen
