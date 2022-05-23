@@ -26,9 +26,9 @@ modal:
   save: Speichern
   saveTitle: Speichern
 purpose:
-  mandatory: (immer notwendig)
+  mandatory: immer notwendig
   mandatoryTitle: Diese Anwendung wird immer benötigt
-  exempt: (Opt-Out)
+  exempt: Opt-Out
   exemptTitle: Diese Anwendung wird standarmäßig gelanden (aber Sie können sie deaktivieren)
   showMore: Mehr Details zeigen
   accept: Annehmen
