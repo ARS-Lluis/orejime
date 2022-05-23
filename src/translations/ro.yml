@@ -6,11 +6,11 @@ banner:
      Pentru a afla mai multe, vă rugăm să citiți {privacyPolicy}.
   privacyPolicyLabel: politica privacy
   accept: ""
-  acceptTitle: ""
+  acceptTitle: null
   decline: Renunță
-  declineTitle: Renunță
+  declineTitle: null
   configure: Află mai multe
-  configureTitle: Află mai multe
+  configureTitle: null
 modal:
   title: Informațiile pe care le colectăm
   description: >
@@ -19,12 +19,12 @@ modal:
      Pentru a afla mai multe, vă rugăm să citiți {privacyPolicy}.
   privacyPolicyLabel: politica privacy
   close: ""
-  closeTitle: ""
+  closeTitle: null
   globalPreferences: ""
   acceptAll: ""
   declineAll: ""
   save: Salvează
-  saveTitle: ""
+  saveTitle: null
 purpose:
   mandatory: (întotdeauna necesar)
   mandatoryTitle: Această aplicație este întotdeauna necesară

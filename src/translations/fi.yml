@@ -8,9 +8,9 @@ banner:
   accept: ""
   acceptTitle: ""
   decline: Hylkää
-  declineTitle: Hylkää
+  declineTitle: null
   configure: Lue lisää
-  configureTitle: Lue lisää
+  configureTitle: null
 modal:
   title: Keräämämme tiedot
   description: |
@@ -18,12 +18,12 @@ modal:
      Voit lukea lisätietoja {privacyPolicy}.
   privacyPolicyLabel: tietosuojasivultamme
   close: ""
-  closeTitle: ""
+  closeTitle: null
   globalPreferences: ""
   acceptAll: ""
   declineAll: ""
   save: Tallenna
-  saveTitle: ""
+  saveTitle: null
 purpose:
   mandatory: (vaaditaan)
   mandatoryTitle: Sivusto vaatii tämän aina
@@ -36,6 +36,6 @@ purpose:
   disabled: ""
   partial: ""
 misc:
-  newWindowTitle: ""
+  newWindowTitle: uusi ikkuna
   updateNeeded: Olemme tehneet muutoksia ehtoihin viime vierailusi jälkeen, tarkista ehdot.
   poweredBy: Palvelun tarjoaa Orejime

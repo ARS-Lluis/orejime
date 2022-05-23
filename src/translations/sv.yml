@@ -5,11 +5,11 @@ banner:
      För att veta mer, läs vår {privacyPolicy}.
   privacyPolicyLabel: Integritetspolicy
   accept: ""
-  acceptTitle: ""
+  acceptTitle: null
   decline: Avböj
-  declineTitle: Avböj
+  declineTitle: null
   configure: Läs mer
-  configureTitle: Läs mer
+  configureTitle: null
 modal:
   title: Information som vi samlar
   description: |
@@ -17,12 +17,12 @@ modal:
      För att veta mer, läs vår {privacyPolicy}.
   privacyPolicyLabel: Integritetspolicy
   close: ""
-  closeTitle: ""
+  closeTitle: null
   globalPreferences: ""
   acceptAll: ""
   declineAll: ""
   save: Spara
-  saveTitle: ""
+  saveTitle: null
 purpose:
   mandatory: (Krävs alltid)
   mandatoryTitle: Den här applikationen krävs alltid

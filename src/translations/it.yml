@@ -5,12 +5,12 @@ banner:
     scopi: {purposes}.
      Per saperne di più, leggi la nostra {privacyPolicy}.
   privacyPolicyLabel: policy privacy
-  accept: ""
-  acceptTitle: ""
+  accept: Accetto
+  acceptTitle: null
   decline: Rifiuta
-  declineTitle: Rifiuta
+  declineTitle: null
   configure: Scopri di più
-  configureTitle: Scopri di più
+  configureTitle: null
 modal:
   title: Informazioni che raccogliamo
   description: |
@@ -18,24 +18,24 @@ modal:
      Per saperne di più, leggi la nostra {privacyPolicy}.
   privacyPolicyLabel: policy privacy
   close: ""
-  closeTitle: ""
+  closeTitle: null
   globalPreferences: ""
   acceptAll: ""
   declineAll: ""
   save: Salva
-  saveTitle: ""
+  saveTitle: null
 purpose:
   mandatory: (sempre richiesto)
   mandatoryTitle: Quest'applicazione è sempre richiesta
   exempt: (opt-out)
   exemptTitle: Quest'applicazione è caricata di default (ma puoi disattivarla)
   showMore: ""
-  accept: ""
+  accept: Accetto
   decline: Rifiuta
   enabled: ""
   disabled: ""
   partial: ""
 misc:
-  newWindowTitle: ""
+  newWindowTitle: nuova finestra
   updateNeeded: Ci sono stati cambiamenti dalla tua ultima visita, aggiorna il tuo consenso.
   poweredBy: Realizzato da Orejime

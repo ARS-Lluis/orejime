@@ -6,11 +6,11 @@ banner:
      For å lære mer, vennligst les vår {privacyPolicy}.
   privacyPolicyLabel: personvernerklæring
   accept: ""
-  acceptTitle: ""
+  acceptTitle: null
   decline: Avslå
-  declineTitle: Avslå
+  declineTitle: null
   configure: Lær mer
-  configureTitle: Lær mer
+  configureTitle: null
 modal:
   title: Informasjon vi samler inn
   description: |
@@ -18,12 +18,12 @@ modal:
      For å lære mer, vennligst les vår {privacyPolicy}.
   privacyPolicyLabel: personvernerklæring
   close: ""
-  closeTitle: ""
+  closeTitle: null
   globalPreferences: ""
   acceptAll: ""
   declineAll: ""
   save: Opslaan
-  saveTitle: ""
+  saveTitle: null
 purpose:
   mandatory: (alltid påkrevd)
   mandatoryTitle: Denne applikasjonen er alltid påkrevd
